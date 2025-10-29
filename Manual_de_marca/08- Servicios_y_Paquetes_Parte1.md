@@ -670,4 +670,4 @@ Para ver:
 - Políticas y condiciones
 - FAQ de servicios
 
-Solicita **"07-SERVICIOS-PARTE-2.md"** para continuar.
+Solicita **"08-Servicios y paquetes Parte1.pdf"** para continuar.
